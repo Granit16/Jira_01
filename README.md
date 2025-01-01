@@ -37,4 +37,4 @@
    
    Cкриншоты workflow
    - Bug WorkFlow
-     ![]([https://github.com/Granit16/Jira_01/blob/main/Bug.png](https://github.com/Granit16/Jira_01/blob/main/Bug%20WorkFlow.png))
+     ![](https://github.com/Granit16/Jira_01/blob/main/Bug%20WorkFlow.png)
