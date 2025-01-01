@@ -30,11 +30,18 @@
 
 6. Всё отработалось в рамках ожидания.
 
-   Cхемы workflow в XML:
+
+## Cхемы workflow в XML:
    - Bug WorkFlow https://github.com/Granit16/Jira_01/blob/main/Bug%20WorkFlow.xml;
    - Task WorkFlow https://github.com/Granit16/Jira_01/blob/main/Task%20WorkFlow.xml;
 
-   
-   Cкриншоты workflow
-   - Bug WorkFlow
-     ![](https://github.com/Granit16/Jira_01/blob/main/Bug%20WorkFlow.png)
+
+## Cкриншоты workflow
+
+   **Bug WorkFlow**
+
+   ![](https://github.com/Granit16/Jira_01/blob/main/Bug%20WorkFlow.png)
+
+   **Task WorkFlow**
+
+   ![](https://github.com/Granit16/Jira_01/blob/main/Task%20WorkFlow.png)
