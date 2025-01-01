@@ -32,8 +32,8 @@
 
 
 ## Cхемы workflow в XML:
-   - Bug WorkFlow https://github.com/Granit16/Jira_01/blob/main/Bug%20WorkFlow.xml;
-   - Task WorkFlow https://github.com/Granit16/Jira_01/blob/main/Task%20WorkFlow.xml;
+   - [Bug WorkFlow](https://github.com/Granit16/Jira_01/blob/main/Bug%20WorkFlow.xml);
+   - [Task WorkFlow](https://github.com/Granit16/Jira_01/blob/main/Task%20WorkFlow.xml).
 
 
 ## Cкриншоты workflow
