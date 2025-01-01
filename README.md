@@ -28,9 +28,13 @@
 
 5. На доске **Scrum**, запланировал новый спринт, состоящий из задач **epic** и одного **bug**, запустил спринт, провел задачи до состояния **Closed**. Закрыл спринт.
 
-6. Всё отработалось в рамках ожидания, схемы workflow в XML:
+6. Всё отработалось в рамках ожидания.
+
+   Cхемы workflow в XML:
    - Bug WorkFlow https://github.com/Granit16/Jira_01/blob/main/Bug%20WorkFlow.xml;
    - Task WorkFlow https://github.com/Granit16/Jira_01/blob/main/Task%20WorkFlow.xml;
 
    
-     скриншоты workflow приложите к решению задания.
+   Cкриншоты workflow
+   - Bug WorkFlow
+     ![]([https://github.com/Granit16/Jira_01/blob/main/Bug.png](https://github.com/Granit16/Jira_01/blob/main/Bug%20WorkFlow.png))
